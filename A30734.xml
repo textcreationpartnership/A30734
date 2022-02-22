@@ -1,0 +1,339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at St. Mary-le-Bow before the Lord Mayor, and court of aldermen, and citizens of London, on Wednesday the 28th of April, a day appointed by His Majesty's proclamation for a general and publick fast by Lilly Butler ...</title>
+            <author>Butler, Lilly.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30734</idno>
+            <idno type="STC">Wing B6283</idno>
+            <idno type="STC">ESTC R14783</idno>
+            <idno type="EEBO-CITATION">12542131</idno>
+            <idno type="OCLC">ocm 12542131</idno>
+            <idno type="VID">62985</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30734)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62985)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 308:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at St. Mary-le-Bow before the Lord Mayor, and court of aldermen, and citizens of London, on Wednesday the 28th of April, a day appointed by His Majesty's proclamation for a general and publick fast by Lilly Butler ...</title>
+                  <author>Butler, Lilly.</author>
+               </titleStmt>
+               <extent>30, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Brabazon Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: [2] p. at end.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Duty --  Sermons.</term>
+               <term>Fast-day sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:62985:1" rendition="simple:additions"/>
+            <p>Mr. <hi>B<g ref="char:V">Ʋ</g>TLER</hi>'s Faſt-Sermon, Preached before the Lord Mayor and Court of Aldermen, <hi>April</hi> 28. 1697.</p>
+         </div>
+         <div type="order_to_print">
+            <pb facs="tcp:62985:2"/>
+            <opener>
+               <salute>Clarke Mayor.</salute>
+               <date>Martis quarto die Maii 1697, Anno<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Regis Willielmi Ter<g ref="char:EOLhyphen"/>tii, Angliae, &amp;c. Nono.</date>
+            </opener>
+            <p>THIS Court doth deſire Mr. BUTLER to print his Sermon preached at the Pariſh-Church of St. <hi>Mary-le-Bow,</hi> on Wedneſday laſt, before the Lord Mayor, Aldermen, and Citizens of this City.</p>
+            <closer>
+               <signed>Goodfellow.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:62985:2"/>
+            <p>A SERMON Preached at St. <hi>MARY-LE-BOW,</hi> Before the LORD MAYOR, AND Court of Aldermen, and Citizens of <hi>LONDON,</hi> On Wedneſday the <hi>28th</hi> of <hi>April,</hi> A Day appointed by his Majeſty's Proclamation for a General and Publick FAST. By LILLY BUTLER, Miniſter of St. <hi>Mary Aldermanbury.</hi>
+            </p>
+            <p>
+               <hi>LONDON;</hi> Printed for Brabazon Aylmer, at the three Pigeons in <hi>Corn<g ref="char:EOLhyphen"/>hil,</hi> over againſt the <hi>Royal-Exchange.</hi> MDC XC VII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:62985:3"/>
+            <pb n="5" facs="tcp:62985:3"/>
+            <epigraph>
+               <q>
+                  <bibl>JAMES 4. 9, 10.</bibl> Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heavi<g ref="char:EOLhyphen"/>neſs. Humble your ſelves in the ſight of the Lord, and he ſhall lift you up.</q>
+            </epigraph>
+            <p>THOSE <hi>Jewiſh Chriſtians,</hi> to whom the <hi>Apoſtle</hi> directs his Diſcourſe in this <hi>Chapter,</hi> were in<g ref="char:EOLhyphen"/>gaged in <hi>Wars and Fightings;</hi> and earneſtly<note place="margin">Ver. 1.</note> wiſhing for the return of Peace and Plenty, and thoſe other Advantages they fought for, but could not ob<g ref="char:EOLhyphen"/>tain them, <hi>ver. 2. Ye luſt, and have not: ye kill, and deſire to have, and cannot obtain: ye fight and war, yet ye have not.</hi> He therefore informs them, what was the true Cauſe of all their ill Succeſs and Diſappointments; they did not ſeek to God for the Bleſſings they deſired, or asked them only for evil Ends, not <hi>that, being delivered out of the hand of their Enemies, they might ſerve him without Fear,</hi> but be inabled to <hi>make</hi> the more plentiful <hi>proviſion for their Luſts,</hi> and with the greater Quietneſs and Freedom pur<g ref="char:EOLhyphen"/>ſue the <hi>fulfilling</hi> of them: <hi>Ye have not, becauſe ye ask not.</hi>
+               <note place="margin">Ver. 2, 3.</note> 
+               <hi>Ye ask and receive not, becauſe ye ask amiſs, that ye may con<g ref="char:EOLhyphen"/>ſume it upon your Luſts.</hi> They had alſo contracted ſuch a <hi>Friendſhip with the World,</hi> as was <hi>Enmity with God,</hi> to whom they had eſpouſed themſelves; and therefore he calls them <hi>Adulterers and Adultereſſes,</hi> ver. 4. They doubled and diſſembled with God in their <hi>Hearts,</hi> and their <hi>Hands</hi> were polluted with many foul Practices, which their<note place="margin">Ver. 8.</note> greedy Covetouſneſs had imployed them in. He well knew there could be no good hopes of better Times,
+<pb n="6" facs="tcp:62985:4"/> till they were better themſelves; and therefore proceeds to tell them, what was fit and neceſſary to be done by them: That they muſt <hi>ſubmit themſelves to God, and re<g ref="char:EOLhyphen"/>ſiſt</hi>
+               <note place="margin">Ver. 7.</note> 
+               <hi>the Devil;</hi> that they muſt diligently perform the neg<g ref="char:EOLhyphen"/>lected Duty of Prayer, and the other Exerciſes of Divine Worſhip; <hi>Draw nigh to God, and he will draw nigh to you:</hi>
+               <note place="margin">Ver. 8.</note> That they muſt prepare themſelves for ſuch Approaches unto God, by putting away the Iniquity of their <hi>Hands,</hi> and the Hypocriſy of their <hi>Hearts; Cleanſe your Hands ye ſinners, and purify your Hearts ye double minded:</hi> And that<note place="margin">Ver. 8.</note> in order to the effectual working this Repentance and Reformation, they muſt <hi>afflict</hi> their Souls with a <hi>godly Sorrow,</hi> and <hi>humble themſelves in the ſight of God,</hi> for the Sins they had committed; and then, and not before, they might expect the happy Fruits of God's Favour. <hi>Be afflicted, and mourn, and weep; let your laughter be tur<g ref="char:EOLhyphen"/>ned to mourning, and your joy to heavineſs: Humble your ſelves in the ſight of the Lord, and he ſhall lift you up.</hi> The words of the <hi>Text</hi> then, if we ſeriouſly compare our Caſe with theirs to whom they are written, we cannot but acknowledg, are very proper Matter for our preſent Me<g ref="char:EOLhyphen"/>ditation. In ſpeaking to them at this time,</p>
+            <p n="1">I. I ſhall ſhew, What that Duty is which they require of us.</p>
+            <p n="2">II. I ſhall ſhew, The great Neceſſity of this Duty.</p>
+            <p n="3">III. I ſhall ſhew, The Seaſonableneſs of it at this time.</p>
+            <p n="4">IV. I ſhall ſhew, The great Benefit of performing this Duty, intimated in theſe words, <hi>and he ſhall lift you up.</hi>
+            </p>
+            <p n="5">V. I ſhall direct to ſome proper Conſiderations, for the exciting you to it. And</p>
+            <pb n="7" facs="tcp:62985:4"/>
+            <p n="6">VI. I ſhall ſhew, What are the neceſſary Fruits of a due performance of it.</p>
+            <p n="1">1. I ſhall endeavour to ſhew, What that Duty is which the <hi>Text</hi> requires of us. And to this end, I ſhall ſhew,</p>
+            <p>
+               <hi>Firſt,</hi> What is to be the general Matter of our Sorrow and <hi>Mourning.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> What are the neceſſary Qualifications of this Sorrow. And</p>
+            <p>
+               <hi>Thirdly,</hi> The particular Reaſons of our Sorrow and Humiliation for that general Matter.</p>
+            <p>
+               <hi>Firſt,</hi> I am to ſhew, What is to be the general Matter of our Sorrow and Humiliation; What that is we are to <hi>be afflicted, and mourn, and weep, and to humble our ſelves in the ſight of God for.</hi> It is for Sin. The <hi>Apoſtle</hi> had been declaring and reproving the Peoples Sins, and is here calling them to repent of them: <hi>Ye Adulterers,</hi> ſaith he, <hi>ye Adultereſſes, ye Sinners, ye double minded, be ye af<g ref="char:EOLhyphen"/>flicted, and mourn, and weep;</hi> that is, <hi>humble your ſelves</hi> in this manner, for all thoſe Iniquities whereby ye have juſtly deſerved ſuch reproachful Names as theſe are. Eve<g ref="char:EOLhyphen"/>ry Man then ſhould <hi>afflict his Soul</hi> with Shame and Sor<g ref="char:EOLhyphen"/>row, for his own, for other Mens, and for the Nation's Sins; for <hi>all the Abominations have been done in the midſt of us,</hi> for the Sins of Magiſtrates, and Miniſters, and of all other Ranks and Conditions of Men; for all have ſinned, and helped to increaſe the Publick Guilt, and to compleat the Character of a <hi>ſinful Nation, a People laden with Ini<g ref="char:EOLhyphen"/>quity.</hi> For theſe things both God and the King do <hi>call us this Day to faſting, and weeping, and mourning.</hi> And, by
+<pb n="8" facs="tcp:62985:5"/> our aſſembling together at this time, we make profeſſion of humbling our ſelves in this manner. I ſhall therefore, for your farther Direction, ſhew,</p>
+            <p>
+               <hi>Secondly,</hi> What are the neceſſary Qualifications of that Sorrow which is required of us.</p>
+            <p n="1">1. It muſt be a hearty Sorrow. That Mourning and Humiliation, which God expects from us, is chiefly that of the Soul and Spirit; <hi>Rent your Hearts, and not your Gar<g ref="char:EOLhyphen"/>ments,</hi> ſaith the Prophet <hi>Joel.</hi> God will not be ſatisfied with<note place="margin">Joel 2.</note> ſuch outward Ceremonies and Formalities of Mourning, as thoſe were, in which alone the Faſts of the <hi>Jews</hi> did too often conſiſt, ſuch as tearing their Garments, <hi>bowing down the Head like a Bulruſh, ſpreading Sackcloth and Aſhes un<g ref="char:EOLhyphen"/>der them, disfiguring their Faces,</hi> and appearing before him with <hi>a ſad Countenance; Wilt thou call this a Faſt, and an</hi>
+               <note place="margin">Iſa. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. 4, 5.</note> 
+               <hi>acceptable Day to the Lord?</hi> All theſe may be nothing but a vain-glorious ſhew and pageantry of Mourning, to at<g ref="char:EOLhyphen"/>tract the regard and eſteem of Men; nothing but Moc<g ref="char:EOLhyphen"/>kery and Hypocriſy <hi>in the ſight of God.</hi> It is the <hi>break<g ref="char:EOLhyphen"/>ing</hi> of the <hi>Heart,</hi> the <hi>melting</hi> of the <hi>Spirit,</hi> the <hi>humbling</hi> of the <hi>Soul</hi> for Sin; this is that Humiliation which God hath the greateſt reſpect to. The other may make us <hi>appear to Men to</hi> grieve and <hi>be afflicted,</hi> but this, this in<g ref="char:EOLhyphen"/>ward Sorrow is neceſſary to the <hi>humbling our ſelves in the ſight of God, who ſearcheth the Hearts of Men.</hi>
+            </p>
+            <p n="2">2. It muſt be a great and deep Sorrow of Heart. All Evils are to be lamented with a Sorrow proportionable to the greatneſs of them; and therefore Sin being the great<g ref="char:EOLhyphen"/>eſt of all Evils, our Sorrow for that ſhould be the great<g ref="char:EOLhyphen"/>eſt of all our Sorrows. It is <hi>to him, that is of an humble and of a contrite Spirit,</hi> that God hath a ſpecial regard, to him whoſe Spirit is even ground to pieces with Sorrow,
+<pb n="9" facs="tcp:62985:5"/> as the word <hi>Contrite</hi> ſignifies. <hi>The Sacrifices of God,</hi> ſaith <hi>David,</hi> Pſal. 51. 17. <hi>are a broken Spirit;</hi> it is <hi>a broken and contrite Heart,</hi> which <hi>God will not de<g ref="char:EOLhyphen"/>ſpiſe.</hi> It muſt not only be the Sorrow of the <hi>Heart,</hi> but alſo ſo great a Sorrow of it, as may fitly be cal<g ref="char:EOLhyphen"/>led the <hi>breaking</hi> and grinding it to pieces, as much Sorrow as our Hearts are able to bear; eſpecially when we bewail, as we profeſs to do this Day, all our Sins at once, the Sins which we, and all the People of this Land, have committed.</p>
+            <p n="3">3. It muſt be an impartial Sorrow, a great and hearty Sorrow for Sin, where-ever we ſee it, or of what kind ſo ever it is. Our love to any Perſon or Party muſt not leſſen our diſlike of their evil do<g ref="char:EOLhyphen"/>ings; neither muſt our Diſpleaſure againſt any, make us unconcerned at theirs. We muſt not de<g ref="char:EOLhyphen"/>light in that our ſelves, which we are offended with in others, or take pleaſure in ſeeing other Men do, what we dare not do our ſelves: we muſt not mourn for one Sin, and rejoice in another: we muſt not hate and diſlike only thoſe Sins, which, through ſome oppoſition in our Tempers, or through ſatiety, or ſome evil Effects we feel of them, are become irkſome and grievous to us; and love, and cheriſh, and de<g ref="char:EOLhyphen"/>light our ſelves in the commiſſion of others, which are more agreeable to our Humour, or Conſtitution, or Intereſt. Our <hi>Laughter</hi> muſt <hi>be turned to mourn<g ref="char:EOLhyphen"/>ing, and our Joy to heavineſs;</hi> we muſt <hi>be afflicted, and mourn, and weep,</hi> for thoſe very Sins we were wont to take the greateſt Pleaſure in.</p>
+            <pb n="10" facs="tcp:62985:6"/>
+            <p n="4">4. It muſt be an humbling Sorrow. We muſt ſo be afflicted, and mourn, and weep, as <hi>to humble our ſelves in the ſight of God</hi> for the Sins we have com<g ref="char:EOLhyphen"/>mitted, ſo as to waſh away all the filth of Pride, and <hi>every high Thought</hi> of our ſelves. Our Sorrow ſhould be attended with Shame, and a deep ſenſe of our own Baſeneſs. Whenever we bewail our Sins, we ſhould <hi>abhor and loath our ſelves</hi> for them, and ac<g ref="char:EOLhyphen"/>knowledg the Juſtice of God in all the Evils they have brought upon us, and his undeſerved <hi>Mercy</hi> in <hi>that we are not</hi> utterly <hi>conſumed</hi> for them. Such a Mourner was <hi>Job,</hi> when he <hi>abhorred himſelf,</hi> and <hi>re<g ref="char:EOLhyphen"/>pented</hi>
+               <note place="margin">Job 42. 6.</note> 
+               <hi>in Duſt and Aſhes.</hi> Such was <hi>David,</hi> when he confeſſed that he <hi>was fooliſh and ignorant,</hi> even <hi>as</hi>
+               <note place="margin">Pſal. 73. 22.</note> 
+               <hi>a Beaſt before God.</hi> Such was <hi>Ezra,</hi> when he <hi>fell upon his Knees, and ſaid, O my God, I am aſhamed, and bluſh</hi>
+               <note place="margin">Ezra 9. 5, 6.</note> 
+               <hi>to lift up my Face to thee, my God: for our Iniqui<g ref="char:EOLhyphen"/>ties are increaſed over our Heads, and our Treſpaſs is grown up unto the Heavens.</hi> And ſuch was <hi>Daniel,</hi> when confeſſing, with <hi>Faſting, and Sackcloth, and</hi>
+               <note place="margin">Dan. 9. 3.</note> 
+               <hi>Aſhes,</hi> the Sins of his People, he thus expreſſed him<g ref="char:EOLhyphen"/>ſelf; <hi>O Lord, Righteouſneſs belongs unto thee, but unto</hi>
+               <note place="margin">Ver. 7, 8.</note> 
+               <hi>us Confuſion of Face, becauſe we have ſinned againſt thee.</hi> Such Mourners ſhould we all be this Day, <hi>ly<g ref="char:EOLhyphen"/>ing down in our Shame,</hi> and <hi>our Confuſion covering us,</hi> and <hi>loathing our ſelves in our own ſight for all the Evils that we have committed.</hi>
+            </p>
+            <p n="5">5. It muſt be a laſting Sorrow. It is not the Du<g ref="char:EOLhyphen"/>ty of one Hour, or of one Day only. <hi>Is this the Faſt that I have choſen,</hi> ſaith God, <hi>a Day for a Man to afflict his Soul?</hi> Iſa. 58. 4. The Sorrow which God
+<pb n="11" facs="tcp:62985:6"/> expects from us, is not ſuch as vaniſhes in our Sighs and Lamentations, or runs out with our Tears, and then leaves the Heart to return to its wonted hard<g ref="char:EOLhyphen"/>neſs. It is not as a <hi>morning Cloud,</hi> which overcaſts the Soul for a little while, <hi>but ſoon paſſeth away,</hi> and then all is clear again, and our Affections ſhine as bright as ever upon the Sins we bewailed. It is not falling out with them, and our ſelves for their ſakes, for one Day, and renewing all our Love and Kind<g ref="char:EOLhyphen"/>neſs the next: No, we muſt never ſmile any more upon our lamented Sins, or remember them without Shame: We muſt never ſuffer our <hi>Hearts</hi> to be <hi>lift<g ref="char:EOLhyphen"/>ed up</hi> again, or to grow inſenſible of that load of Sin, which we have felt ſo heavy upon them, and hath given them ſo much Pain and Trouble: We muſt always carry with us the ſame reſentment of <hi>the filthy Converſation of the Wicked,</hi> and be continu<g ref="char:EOLhyphen"/>ally diſpoſed to mourn and be afflicted, <hi>in ſeeing and hearing</hi> their Abominations. I proceed now,</p>
+            <p>
+               <hi>Thirdly,</hi> To conſider the particular Reaſons of this Sorrow and Humiliation, for our own and others Sins. Theſe are the filthy Nature, the baſe In<g ref="char:EOLhyphen"/>gratitude, and the evil Fruits and Conſequences of them. We muſt <hi>be afflicted, and mourn, and weep, and humble our ſelves</hi> for them; becauſe hereby our God is diſhonoured; his Authority deſpiſed, his Laws trampled on, and his Love and Goodneſs a<g ref="char:EOLhyphen"/>buſed: becauſe hereby our moſt Holy Religion is diſgraced, and the Chriſtian Faith expoſed to the Scorn and Deriſion of bold and growing Infideli<g ref="char:EOLhyphen"/>ty:
+<pb n="12" facs="tcp:62985:7"/> becauſe the Peace and Proſperity of our Country is undermined, and ſo many Publick Miſchiefs pro<g ref="char:EOLhyphen"/>cured by them: becauſe hereby our Minds and Con<g ref="char:EOLhyphen"/>ſciences are defiled, and the Image of God defaced in us, the Peace of our Souls deſtroyed, and ever<g ref="char:EOLhyphen"/>laſting Wrath and Puniſhment incurred by us. Theſe are all of them very ſorrowful Conſiderati<g ref="char:EOLhyphen"/>ons, and we muſt have reſpect to them all, in <hi>afflicting</hi> and <hi>humbling</hi> our Souls for our Sins. Thus much may ſuffice for the explaining the Nature of the Duty of the <hi>Text.</hi>
+            </p>
+            <p>I ſhall therefore proceed and ſhew,</p>
+            <p n="2">II. The Neceſſity of it, which will be manifeſt, if we conſider,</p>
+            <p>
+               <hi>Firſt,</hi> That without this great and hearty Sor<g ref="char:EOLhyphen"/>row and Humiliation for our Sins, there can be no true Repentance, without which there can be no Pardon, no Reconciliation with God, no hopes of diverting the Judgments of God from this <hi>untoward Generation,</hi> no eſcaping <hi>the Wrath to come,</hi> no hopes of Eternal Life and Salvation. This Sorrow and Humiliation for Sin, is therefore very often ex<g ref="char:EOLhyphen"/>preſly called for, when Men are exhorted to repent, and particularly mentioned in the account of their Repentance. Thus ſaid the Lord to the Houſe of <hi>Iſrael,</hi> when he called them to repent, <hi>Joel 2. 12. Turn ye, even to me, with all your Heart, and with weeping, and faſting, and mourning, and rent your Hearts.</hi>
+               <pb n="13" facs="tcp:62985:7"/> Thus when <hi>David</hi> repented of his Sin, <hi>in the matter</hi>
+               <note place="margin">Pſal. 51.</note> 
+               <hi>of</hi> Uriah, he offered <hi>the Sacrifice of a broken and contrite Heart.</hi> And thus the Prophet <hi>Ezekiel</hi> fore<g ref="char:EOLhyphen"/>tells the Repentance of the Captive <hi>Jews;</hi> Ezek. 6. 9. <hi>They ſhall loath themſelves for the Evils that they have committed in all their Abominations.</hi> And thus we read of the Penitent Woman in the Goſpel, <hi>Luk.</hi> 7. 38. that <hi>ſhe came behind</hi> our Saviour <hi>weeping, and began to waſh his Feet with Tears:</hi> And of St. <hi>Peter,</hi> that when he began his Repentance, <hi>he went out, and wept bitterly:</hi> And of thoſe Converts he made, <hi>Act.</hi> 2. That <hi>they were pricked in their Heart,</hi> at the mention of their great Sin, in crucifying the Lord Jeſus. Repentance, as it is often deſcribed in Scrip<g ref="char:EOLhyphen"/>ture; is a <hi>turning from Sin,</hi> and a <hi>turning to the Lord;</hi> a turning from Sin, in the Judgment, Will, and Reſolutions, and in the Affections likewiſe; the love of it is turned into Hatred, and delight in it into Shame and Sorrow for it. And this inward turn<g ref="char:EOLhyphen"/>ing from Sin goes before, and produceth the turning from it in the outward Converſation and Practice: Therefore St. <hi>Paul</hi> tells us, that <hi>Godly Sorrow work<g ref="char:EOLhyphen"/>eth Repentance not to be repented of,</hi> 2 Cor. 7. 10. We firſt grieve for Sin, and then forſake it; We feel the remembrance of it lie heavy upon our Minds, and then and therefore ſet our ſelves to ſhake off the uneaſy Burden.</p>
+            <p>
+               <hi>Secondly,</hi> The Neceſſity of this Sorrow and Humi<g ref="char:EOLhyphen"/>liation will be farther manifeſt, if we conſider, that without this there cannot be that Love of God which
+<pb n="14" facs="tcp:62985:8"/> the <hi>firſt and great Commandment</hi> requires of us. If we <hi>love God with all our Heart,</hi> we cannot but look with great diſpleaſure upon that, which is moſt contrary to his Nature and Will, which his Soul hates, and his Honour ſuffers ſo much by. Can we ſee him moſt highly provoked and injur'd, <hi>whom our Soul</hi> dearly <hi>loves,</hi> and not be afflicted at it? He that can reflect upon his Rebellion and Diſobedience, that can remember how often, and how many ways he hath grieved and offended God, and not mourn and be aſhamed at the thoughts of what he hath done, <hi>How dwells the love of God in him?</hi> How abſurd are all his pretences to it?</p>
+            <p>
+               <hi>Thirdly,</hi> The Neceſſity of this Sorrow and Humi<g ref="char:EOLhyphen"/>liation, will be yet farther manifeſt, if we conſi<g ref="char:EOLhyphen"/>der, that without this there can be no true Love of our Neighbour, without which we cannot be Chriſt's Diſciples. Love will not ſuffer us to be unconcern<g ref="char:EOLhyphen"/>ed at the Calamities of thoſe who are the Objects of it. We cannot but grieve to ſee their Bodies in pain, their Minds diſtracted, their Goods rifled, and their Enemies executing their bloody Deſigns againſt them; and are we not aſhamed to pretend, in any ſenſe, to love our Neighbours as Chriſt hath loved us, if we can ſee them under far greater Miſeries than all theſe, and yet be little affected with them? If we can ſee them diſeaſed in their Souls, dead in Treſpaſſes and Sins, inſlaved by the Devil, pulling down the Wrath of God upon them, and ready to fall with their Souls and Bodies into unquenchable
+<pb n="15" facs="tcp:62985:8"/> Flames, and not have our <hi>Bowels moved,</hi> and our <hi>Hearts pained within us?</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> Without this Sorrow and Humiliation, there can be no true <hi>Faith, without which it is im<g ref="char:EOLhyphen"/>poſſible to pleaſe God,</hi> or <hi>to be juſtified in his ſight.</hi> How can we believe that God is our Maker and Preſerver, and the giver of <hi>every good Gift,</hi> and yet offend him daily without Remorſe? How can we believe, that he <hi>hates all the Workers of Iniquity,</hi> that he <hi>is angry with the Wicked every Day,</hi> and <hi>will by no means acquit the Guilty,</hi> and yet be eaſy under all the great and provoking Tranſgreſſions we have committed againſt Him? How can we believe that the Son of God came down from Heaven, and ſuf<g ref="char:EOLhyphen"/>fered all the Shame and Torment of the Croſs for our Salvation; and feel no wounds in our Spirits, no ſhame in our Faces, for all the ungrateful Re<g ref="char:EOLhyphen"/>turns we have made to his tender Love? How can we believe that he <hi>gave himſelf for us,</hi> to <hi>ſave us from our Sins,</hi> whilſt we cheriſh and embrace them with pleaſure, and will not be delivered from them? How can we believe that <hi>Glory, Honour, and Immortality,</hi> are the certain Reward of thoſe that <hi>work Righteouſneſs,</hi> and yet remember with little con<g ref="char:EOLhyphen"/>cern how careleſly we have <hi>neglected ſo great Sal<g ref="char:EOLhyphen"/>vation?</hi> How can we believe, that <hi>Indignation and Wrath, Tribulation and Anguiſh, eternal Death and Miſery,</hi> will be the undoubted Portion of <hi>every Soul of Man that doth Evil,</hi> and not look with Horror and Bitterneſs of Spirit, upon our ſinful Lives? What
+<pb n="16" facs="tcp:62985:9"/> brutiſh Folly and Ingratitude doth the unrelenting Sinner accuſe himſelf of, whenever he is ſo abſurd, as to call himſelf a Chriſtian?</p>
+            <p>I proceed,</p>
+            <p n="3">III. To ſhew the Seaſonableneſs of this Duty of Sorrow and Humiliation. God doth ſometimes more loudly <hi>call to Weeping, and Faſting, and Mourning;</hi> and the Sins and Circumſtances of a Church and Nation increaſe their Obligations to them, as with us at this Day. Had ever any Age or People more or greater Sins to mourn for, than we have? Is not the <hi>whole Head ſick, and the whole Heart faint,</hi> and the whole Body full of <hi>Wounds, and Bruiſes, and pu<g ref="char:EOLhyphen"/>trifying Sores?</hi> Have not all ſorts of Men <hi>corrupted their Ways?</hi> Are they not <hi>altogether become abomina<g ref="char:EOLhyphen"/>ble?</hi> Are not Atheiſm and Infidelity, Rioting and Drunkenneſs, Chambering and Wantonneſs, Strife and Envying, Pride and Covetouſneſs, the propha<g ref="char:EOLhyphen"/>nation of God's Sacred Name in horrid Oaths and Curſes, and the contempt of Divine Worſhip, the moſt notorious things we can any where obſerve? And can ſorrow for Sin ever be more ſeaſonable than now, now that it is ſo general, ſo impudent, and ſo exceedingly multiplied in all its Kinds? Is it not a moſt proper Seaſon to mourn for our Sins, when we have already ſmarted ſo much for them, and the Rod is ſtill upon us? when they have brought us into ſo many Difficulties, afflicted us with ſo many Loſſes, ſhed ſo much Engliſh Blood, and made ſo many Orphans, and Widows, and Childleſs amongſt
+<pb n="17" facs="tcp:62985:9"/> us? Is it not high time to <hi>humble our ſelves under</hi> that <hi>mighty Hand of God,</hi> we have felt ſo heavy up<g ref="char:EOLhyphen"/>on us, is ſtill ſo viſibly lifted up againſt us, and from whence alone we can expect that Succeſs, and Peace, and Settlement, our Sins have hitherto withheld from us? But that nothing may be wanting to perſwade us, to concern our ſelves effectually for the diſcharge of the Duty of the <hi>Text,</hi>
+            </p>
+            <p>I ſhall ſhew,</p>
+            <p n="4">IV. The great Benefit of our performing this Du<g ref="char:EOLhyphen"/>ty, intimated to us in theſe Words, <hi>and he ſhall lift you up.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> We might comfortably hope, that if we were generally, or but ſome good Numbers of us thus humbled, God would <hi>lift us up</hi> above all our Difficulties, and above all our Enemies; that we ſhould <hi>dwell on high,</hi> and our <hi>place of Defence ſhould be the Munition of Rocks,</hi> ſecure from all thoſe Storms and Tempeſts our Sins have raiſed againſt us. The great End of God's ſending his Judgments upon a People, is to humble and afflict their Souls, with the re<g ref="char:EOLhyphen"/>membrance of thoſe Sins whereby they have pro<g ref="char:EOLhyphen"/>voked him. And therefore we may reaſonably hope, that he who doth not <hi>afflict willingly, nor grieve the Children of Men,</hi> will take off his Rod; when the Deſign of his Correcting is in ſome good meaſure accompliſhed. God had expreſly threatned to de<g ref="char:EOLhyphen"/>ſtroy <hi>Niniveh</hi> within <hi>fourty Days:</hi> Yet when they faſted, and cried, and humbled themſelves before
+<pb n="18" facs="tcp:62985:10"/> him, he <hi>repented of the Evil he ſaid he would do unto</hi>
+               <note place="margin">Jonah 3.</note> 
+               <hi>them.</hi> And when the King of <hi>Egypt</hi> had gathered a mighty Army againſt <hi>Iſrael</hi> becauſe they had <hi>forſaken</hi>
+               <note place="margin">2 Chron 12.</note> 
+               <hi>God, 2 Chron.</hi> 12. and <hi>the Lord ſaw that</hi> the great Men particularly <hi>humbled themſelves,</hi> he ſent his Prophet to tell them, that he would <hi>not deſtroy them, but</hi>
+               <note place="margin">Ver. 5.</note> 
+               <hi>grant them ſome deliverance, and his Wrath ſhould not be poured upon them by the hand of</hi> Shiſhak. And accordingly we read, <hi>verſ.</hi> 12. that <hi>in</hi> Judah <hi>things went well.</hi> Is it then in our Power to do any thing, ſo ſerviceable to our publick Peace and Proſperity, and ſhall we ſtill neglect it? Are not theſe Bleſſings wor<g ref="char:EOLhyphen"/>thy to be ſought with Tears and Sorrow? and would they not be very cheaply purchaſed by the perfor<g ref="char:EOLhyphen"/>mance of ſo reaſonable a Duty, after ſo large an Ex<g ref="char:EOLhyphen"/>pence of Blood and Treaſure in vain for the recovery of them?</p>
+            <p>
+               <hi>Secondly,</hi> Our particular penitent Sorrow and Hu<g ref="char:EOLhyphen"/>miliation, may prevail with God to <hi>lift us up</hi> above thoſe Calamities it may be too late for us to prevent. <hi>When Men are caſt down, then thou ſhalt ſay, There is lifting up; and he ſhall ſave the humble Perſon,</hi> Job 22. 29. An eminent Inſtance of this diſtinguiſhing Providence of God, we have <hi>Ezek.</hi> 9. 4. where God commands a <hi>Mark to be ſet on the Forehead of thoſe that did ſigh and cry for the Abominations that were done in the midst of</hi> Jeruſalem, that the Miniſters of his Wrath might <hi>not come near any of them,</hi> ver. 6. For ſuch Men are the particular Care of Heaven, and the peculiar Objects of the Divine Favour. <hi>To this
+<pb n="19" facs="tcp:62985:10"/> Man will I look,</hi> ſaith God, <hi>Iſa. 66. 2. even to him that is poor and of a contrite Spirit, and trembleth at my Word.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> God will <hi>lift up</hi> them that <hi>mourn and af<g ref="char:EOLhyphen"/>flict</hi> themſelves, as the Command of the <hi>Text</hi> requires; that is, He will raiſe their drooping Spirits, revive and comfort their humbled Souls. He is therefore called by St. <hi>Paul,</hi> 2 Cor. 7. 6. <hi>The God that comforteth thoſe that are caſt down. The Spirit of the Lord is upon me,</hi> ſaith the Prophet <hi>Iſaiah, he hath ſent me to preach glad Tidings to the Meek, to bind up the broken hearted, and to comfort them that mourn,</hi> Iſa. 61. 1, 2. Such Men have an everflowing Spring of Comfort al<g ref="char:EOLhyphen"/>ways abiding in them, even the Holy Spirit of God, who <hi>dwelleth with ſuch as are of a contrite and humble</hi>
+               <note place="margin">Iſa. 57. 15.</note> 
+               <hi>Spirit, to revive the Spirit of the Humble, and to revive the Spirit of the contrite Ones;</hi> to give them ſuch a Senſe of the Divine Love, ſuch joyful and glorious Hopes, as will abundantly ſweeten the worſt Condition they can be in: So that to be thus <hi>ſorrowful,</hi> is the beſt way to be <hi>always rejoicing.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> God will <hi>lift them up,</hi> who thus <hi>humble themſelves in his ſight</hi> here, to his own everlaſting King<g ref="char:EOLhyphen"/>dom hereafter, where <hi>they ſhall ſhine as the Sun,</hi> and whither no Clouds can reach, to diminiſh ought of their Glory and Joy. <hi>Bleſſed are the poor in Spirit, for theirs is the Kingdom of Heaven,</hi> Mat. 5. 3. As God delights to dwell with ſuch Men here, ſo will he receive them to dwell with himſelf hereafter, when he
+<pb n="20" facs="tcp:62985:11"/> will dry up all their Tears, heal all their Wounds, put an end to all their Sorrows, and fill their Souls <hi>with Joy unſpeakable and full of Glory;</hi> when he will no lon<g ref="char:EOLhyphen"/>ger ſpeak to them, as he doth in the <hi>Text, Be afflicted, and mourn, and weep;</hi> but will call them to <hi>enter into the Joy of their Lord, to ſing the Song of the Lamb,</hi> and to exerciſe themſelves in perpetual Hallelujah's.</p>
+            <p>Thus then you ſee how neceſſary, how ſeaſonable, and how profitable, the Duty of the <hi>Text,</hi> and the Duty of the Day is: And ſhall we not, now at length, ſet our ſelves in earneſt to the performance of it? Shall we ſtill <hi>rejoice to do Evil, and delight in the frowardneſs of the Wicked?</hi> Shall we ſtill maintain the Character which the Prophet gave of <hi>Niniveh,</hi> Zeph. 2. 15. <hi>This is the rejoicing City that dwelleth careleſly?</hi> God forbid! <hi>Let us ſearch and try our Ways</hi> then, and <hi>know every Man the Plague of his own Heart, and turn to the Lord with weeping and mourning,</hi> for all our great and crying Sins. And for the afflicting our Hearts with this Sor<g ref="char:EOLhyphen"/>row, I ſhall,</p>
+            <p n="5">V. Direct to ſome proper Conſiderations for this purpoſe.</p>
+            <p>
+               <hi>Firſt,</hi> Let us conſider the Goodneſs and Mercy of that God we have ſinned againſt, and try to <hi>afflict our Souls</hi> with Shame and Sorrow for the baſe Ingratitude of our Sins. When <hi>David</hi> had put <hi>Saul</hi> in mind of the tender regard he had had for his Life and Safety, we read that <hi>Saul lift up his Voice and wept,</hi> at the thoughts<note place="margin">1. Sam. 14. 16.</note> of his cruel Deſigns againſt him: And will not our
+<pb n="21" facs="tcp:62985:11"/> 
+               <hi>Souls melt</hi> with Sorrow, when we conſider the tender Love, the great and innumerable Favours of that good God we have injured and provoked? Was ever Love ſo great as his, or Ingratitude ſo vile and mon<g ref="char:EOLhyphen"/>ſtrous as ours hath been? How kind, how compaſſio<g ref="char:EOLhyphen"/>nate, how bountiful a Father have we offended? O the Riches of that Forbearance and Long-ſuffering we have deſpiſed! O the height and depth of that Love we have abuſed! The <hi>Ox knows his Owner, and the Aſs his Maſter's Crib;</hi> but ungrateful Wretches that we have been, we <hi>have not known,</hi> we <hi>have not conſidered</hi> as we ought, our innumerable Obligations to love and ſerve him, <hi>in whom we live, and move, and have our be<g ref="char:EOLhyphen"/>ing.</hi> That we ſhould <hi>thus requite the Lord, the Lord that</hi> made and <hi>bought us,</hi> that preſerves and provides for us, <hi>of whom and from whom are all</hi> the good <hi>things we enjoy!</hi> What more than brutiſh ſtupidity are our Hearts de<g ref="char:EOLhyphen"/>praved into, if they are not <hi>pierced through with Sor<g ref="char:EOLhyphen"/>row</hi> at the remembrance of ſuch prodigious Ingra<g ref="char:EOLhyphen"/>titude?</p>
+            <p>
+               <hi>Secondly,</hi> Let us endeavour to <hi>afflict our Souls</hi> with Sorrow, for the Sins we have committed, by conſider<g ref="char:EOLhyphen"/>ing the bitter Sufferings of the Son of God by and for them. <hi>They ſhall look upon him whom they have pierced, and they ſhall mourn and be in bitterneſs,</hi> ſaith the Pro<g ref="char:EOLhyphen"/>phet, <hi>Zech.</hi> 12. 10. And methinks we ſhould always be thus affected when we <hi>look upon him,</hi> when we con<g ref="char:EOLhyphen"/>ſider the Death and Paſſion of our Bleſſed Saviour, <hi>who did bear our Sins in his own Body on the Tree.</hi> How dole<g ref="char:EOLhyphen"/>ful were his Cries, how tormenting his Pains, how
+<pb n="22" facs="tcp:62985:12"/> ſhameful his Death, when <hi>he carried our Sorrows,</hi> and <hi>our Iniquities were laid upon him?</hi> Are we not pained at the very Heart to think, how inſenſible we have hi<g ref="char:EOLhyphen"/>therto been of all theſe things; how we have renewed and increaſed his Sorrows, <hi>Crucified him afreſh,</hi> and a<g ref="char:EOLhyphen"/>gain and again <hi>put him to an open ſhame,</hi> by the hard<g ref="char:EOLhyphen"/>neſs of our Hearts, and the ſcandal of our Lives? O my Soul! methinks we ſhould every one of us be rea<g ref="char:EOLhyphen"/>dy to ſay, How canſt thou any longer endure the Thoughts of theſe things without ſhame and remorſe, the Thoughts of thy Redeemer's Sufferings, and thy own Ingratitude? Did the Son of God cry out under the burden of thy Sins, and art thou eaſy and chearful under them? Did he bleed and die for thee, and canſt thou not weep for him, for the Sufferings thou haſt brought upon him, and thy unkind behaviour towards him? O Bleſſed Jeſus! that I ſhould be thus inſenſible of thy intolerable Sufferings, and of thy infinite Love! that I ſhould take Pleaſure in that which brought thee to ſo much Sorrow! that I ſhould cheriſh and em<g ref="char:EOLhyphen"/>brace, and be ſo fond of that, by and for which thou waſt wounded, and bruiſed, and put to all the Shame and Torments of the Croſs! Oh! what Lamentations, what Tears, can be loud or bitter enough to bewail the ſhameful returns I have made, for that precious Life and Blood which were ſo freely given and ſhed for me?</p>
+            <p>
+               <hi>Thirdly,</hi> Let us endeavour <hi>to afflict our Souls</hi> with Grief and Shame, by conſidering the filthy and abomi<g ref="char:EOLhyphen"/>nable Nature of Sin, we have been ſo fond, and ſpent
+<pb n="23" facs="tcp:62985:12"/> ſo much Time in the ſervice of. There is not any thing in Toads or Vipers, ſo ugly; ſo loathſome, ſo deſtructive, as there is in Sin; <hi>Every Creature of God is Good,</hi> but Sin is the Devil's Off-ſpring, it is the De<g ref="char:EOLhyphen"/>vil's Image and Work. And what can make us more deformed than that, which makes us reſemble him; which the <hi>God of Love</hi> cannot but hate; which the <hi>Father of Mercies</hi> cannot but abhor, which <hi>he cannot look upon?</hi> It is the Tranſgreſſion of a <hi>Holy, Juſt, and good Law;</hi> it is the corruption of our Nature, the <hi>plague of our Hearts,</hi> and the <hi>filthineſs of our Fleſh and Spirit;</hi> and do we not bluſh and loath our ſelves, to think how much we have ſet our Hearts upon it; that it was for this, for the ſake of this, ſo baſe and filthy a thing, that we have been all this while abuſing the Love of a moſt Merciful Father, and defeating the Deſign of our Compaſſionate Redeemer, <hi>who gave himſelf for us to redeem us from Iniquity?</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> Let us endeavour to <hi>afflict our Souls</hi> with Shame and Sorrow, by conſidering what means of Re<g ref="char:EOLhyphen"/>formation, and what earneſt Invitations from God we have ſinned againſt. God hath given us mar<g ref="char:EOLhyphen"/>vellous Light, frequent Warnings, great and preci<g ref="char:EOLhyphen"/>ous Promiſes, ſevere and dreadful Threatnings, and called upon us with the greateſt Compaſſion and Importunity, that he might reclaim us from our Sins. And is it <hi>not an evil and bitter thing,</hi> O Sin<g ref="char:EOLhyphen"/>ner, that thou haſt reſiſted all theſe, rendred them all of none effect; and, in ſpite of all the Me<g ref="char:EOLhyphen"/>thods of Heaven, ſtill perſiſted in the dangerous,
+<pb n="24" facs="tcp:62985:13"/> ungrateful, and filthy Ways of Sin? Try then how thou canſt affect thy Heart with ſuch Re<g ref="char:EOLhyphen"/>flections as theſe upon thy ſinful Doings. Had I been born amongſt Heathens and Infidels, my Sin and Folly had been leſs; but all that I have done againſt my God, and Saviour, and my own Soul, I have done it in a bold and obſtinate defiance of the <hi>Glorious Goſpel</hi> of the Son of God; againſt the plaineſt Commands, and the ſtrongeſt Motives to Obedience revealed in it. There I had <hi>Life and Death,</hi> Heaven and Hell, plainly <hi>ſet before</hi> me; but neither did the one <hi>move</hi> me <hi>with Fear,</hi> nor the o<g ref="char:EOLhyphen"/>ther encourage me with Hope, to forſake my Sins, and return to my God. How often have my God and Saviour <hi>beſought</hi> me by their <hi>Ambaſſadors to be reconciled,</hi> to <hi>come unto them that I might have Life?</hi> How have they <hi>ſtretched out their Hands all the Day long,</hi> and, with repeated Declarations and Inſtances of Mercy and Compaſſion, invited me in<g ref="char:EOLhyphen"/>to their Embraces? But alas! all this hath been done to a ſtubborn and gain-ſaying Wretch. O my fooliſh and unhappy Soul! that thou ſhouldſt be thus obſtinately bent upon Sin and Ruin! that thou ſhouldſt be thus inſenſible of the moſt gracious Of<g ref="char:EOLhyphen"/>fers of Pardon and Mercy, and the moſt dreadful Denunciations of Wrath and Vengeance! that thou ſhouldſt make ſo light of the moſt condeſcending Addreſſes of thy offended God, of the moſt com<g ref="char:EOLhyphen"/>paſſionate Invitations of a dying Saviour! How <hi>grie<g ref="char:EOLhyphen"/>vous</hi> ſhould <hi>the remembrance of theſe things</hi> be, how <hi>intolerable the Burden of them?</hi>
+            </p>
+            <pb n="25" facs="tcp:62985:13"/>
+            <p>
+               <hi>Fifthly,</hi> Let us endeavour to <hi>afflict and humble our Souls,</hi> by conſidering how ſhamefully we have con<g ref="char:EOLhyphen"/>tradicted our Profeſſion, and broken our moſt ſo<g ref="char:EOLhyphen"/>lemn Ingagements, by the Sins we have commit<g ref="char:EOLhyphen"/>ted. Is it poſſible we can think, without regret and ſhame, how we have diſhonoured the Holy Name by which we are called, how contrary we have walked to the Precepts and Example of our Lord and Maſter, and how frequently we have broken our Vows and Reſolutions of Amendment? Say to thy Soul then, and try how it will work upon it; Oh! what a ſhameful Sinner haſt thou been? How wide a Difference is there betwixt thy Profeſſion and thy Practice? How holy is thy Religion, how looſe and prophane thy Life? How regardleſs haſt thou been of the Vows of thy Bap<g ref="char:EOLhyphen"/>tiſm, of the Promiſes thou haſt made in thy Di<g ref="char:EOLhyphen"/>ſtreſs, and of the moſt ſolemn Engagements thou haſt entred into at the <hi>Table of the Lord?</hi> O my Soul! doth it not become thee bitterly to bewail ſuch falſe and abſurd dealing, ſuch bold diſſembling with thy Almighty and Gracious Lord, ſuch preſumptu<g ref="char:EOLhyphen"/>ouViolations of the <hi>Covenant of thy God?</hi>
+            </p>
+            <p>
+               <hi>Sixthly,</hi> Let us endeavour to <hi>afflict our Souls</hi> with Shame and Sorrow, by conſidering for what Trifles and Vanities we have committed and con<g ref="char:EOLhyphen"/>tinued our Sins. When <hi>Lyſimachus</hi> had ſold him<g ref="char:EOLhyphen"/>ſelf and his Army for a Cup of cold Water, he thus lamented the fooliſh Bargain he had made;
+<pb n="26" facs="tcp:62985:14"/> 
+               <hi>O ye Gods,</hi> ſaid he, <hi>for how ſhort a Pleaſure have I</hi>
+               <note place="margin">Plutarch.</note> 
+               <hi>made my ſelf of a King a Slave!</hi> So let the Sin<g ref="char:EOLhyphen"/>ner ſay within himſelf; For what periſhing Enjoy<g ref="char:EOLhyphen"/>ments, for what poor and ſhort Delights, have I forfeited the Favour and Love of God, and en<g ref="char:EOLhyphen"/>dangered the Life of my immortal Soul? For what Vanities have I <hi>wearied my ſelf, in committing Ini<g ref="char:EOLhyphen"/>quity? What Fruit have I of all thoſe things for which I am now aſhamed,</hi> and <hi>the End</hi> whereof <hi>is Death?</hi> That I ſhould <hi>ſpend my Strength for that which is not Bread,</hi> and my <hi>Labour for that which profiteth not!</hi> That I ſhould ſo wilfully expoſe my ſelf to everlaſting Death and Miſery, for the <hi>Plea<g ref="char:EOLhyphen"/>ſures of Sin,</hi> which are but <hi>for a Seaſon!</hi> That I ſhould prefer the empty Profits of Iniquity, before the ineſti<g ref="char:EOLhyphen"/>mable and incorruptible Reward of Righteouſneſs! That I ſhould ſo offend my Merciful Creator, diſho<g ref="char:EOLhyphen"/>nour my Gracious Redeemer, and grieve the Holy Spirit of God, ſo often and ſo wilfully as I have done, for <hi>things that periſh in the uſing,</hi> for the moſt vain and momentany Enjoyments!</p>
+            <p>If we did but ſeriouſly conſider theſe things, and preſs them hard upon our Minds, ſurely we could not be altogether ſtupid and inſenſible under them, we could not but feel ſome remorſe for the Folly and ingratitude of our Sins, and <hi>humble our ſelves in the ſight of God for them.</hi> I ſhall hope there<g ref="char:EOLhyphen"/>fore, that we are in ſome meaſure thus affected with theſe Conſiderations have been laid before us, that we feel our Hearts afflicted with Shame and
+<pb n="27" facs="tcp:62985:14"/> Remorſe, for our many and great Tranſgreſſions. This is that temper of Soul, which becomes <hi>the Faſt that God hath choſen,</hi> and which we profeſs to appear before him with. O that we might all manifeſt to our ſelves and to the World; by our future Behaviour, that we have not diſſembled with God this Day; but at length humbled our ſelves in ſincerity before him, and indeed <hi>ſorrowed after a Godly ſort,</hi> both for our own, and the Na<g ref="char:EOLhyphen"/>tion's Sins!</p>
+            <p>I ſhall conclude my Diſcourſe with ſhew<g ref="char:EOLhyphen"/>ing,</p>
+            <p n="6">VI. What are the neceſſary Fruits of ſuch a true godly Sorrow.</p>
+            <p>
+               <hi>Firſt,</hi> It muſt and will be followed with an actual forſaking the Sins we have mourned for, and lamented. If we are in earneſt <hi>pricked to the Heart,</hi> with the remembrance of our former Sins, how can we conſent to ſtick ſuch Thorns into them again? Can we be eaſily perſwaded to re<g ref="char:EOLhyphen"/>peat thoſe Practices, which have ſo deeply afflicted our Souls, and created us ſo much Shame and Sorrow? Can we willingly load our ſelves with thoſe Burdens again, we have heartily ſighed and groaned under? If we do return to the ſervice of the ſame Luſts, and perſiſt in the ſame ſinful Neglects we pretend to bewail, it is moſt certain we <hi>are not humbled unto this Day;</hi> we proclaim
+<pb n="28" facs="tcp:62985:15"/> our ſelves Diſſemblers with God, or ſuch extrava<g ref="char:EOLhyphen"/>gant lovers of Sin, that, though it hath coſt us a great deal of Grief and Pain, yet we cannot but ſtill cheriſh and embrace it. And then what will all our Sorrow avail? It will aggravate the Guilt of our continued Diſobedience, and we ſhall be but the greater Sinners, the greater Mourners we have been.</p>
+            <p>
+               <hi>Secondly,</hi> Our Sorrow and Humiliation muſt, and if it be ſincere, it will be followed, with vigorous and earneſt Endeavours to reſtrain and reclaim Men from thoſe evil Practices, which give us ſo much Grief and Vexation. To what purpoſe do we pretend to faſt and mourn for the Sins of the Times, if we neglect to do our parts to make them better? It is very much in the Power of this Aſſembly, of the Magiſtrates and Officers of this City, to advance the Reformation of it, at leaſt to prevent the bold and publick commiſſion of many of thoſe Sins, we are met together to <hi>humble our ſelves for.</hi> And what provoking Hypocriſy muſt it be, to pretend to <hi>mourn and be afflicted</hi> for thoſe Mala<g ref="char:EOLhyphen"/>dies, we have power to cure, and will not? Is it poſſible you can lay to Heart, as you profeſs to do this Day, the Diſhonour is done to our God and Religion, the Miſchief is done to our Countrey and to the Souls of Men, by the open and inſo<g ref="char:EOLhyphen"/>lent Vices of the Age, if any little, private, world<g ref="char:EOLhyphen"/>ly Conſiderations can hold your Hands from a zealous and faithful execution of thoſe Laws, which
+<pb n="29" facs="tcp:62985:15"/> are made for the Terror and Puniſhment of ſuch evil Doers? For God's ſake then, for the ſake of our moſt Holy Religion, for the ſake of all that is dear to us here, for the ſake of thoſe Souls for whom Chriſt died, and for the diſcharge of our Oaths and Conſciences, let us do all that is pro<g ref="char:EOLhyphen"/>per for us, in our ſeveral Places and Circumſtances, at leaſt to repreſs the Growth and Inſolence of open Wickedneſs: Let the World ſee by our Zeal and Diligence, and Courage, in proſecuting this Deſign, that we do not ſigh and mourn in appearance on<g ref="char:EOLhyphen"/>ly for the Abominations that are done in the midſt of us; that the ſight of them is really ſo grievous and hateful to us, that we cannot forbear, as far as it is in our Power, to force them out of Pub<g ref="char:EOLhyphen"/>lick View and Practice. <hi>We muſt all</hi> ſhortly <hi>ap<g ref="char:EOLhyphen"/>pear before the Judgment Seat of Chriſt,</hi> to give an Account of our executing thoſe Truſts God hath repoſed in us. And do we not tremble to think of being found unfaithful, in the moſt <hi>weighty</hi> and important Matters of our Duty both to God and Man? But <hi>I am perſwaded better things of you, though I thus ſpeak.</hi> You have already given many Inſtances of your Zeal in <hi>ſtriving againſt Sin,</hi> and the Effects of it are not altogether inviſible. May its Flames increaſe and ſpread yet more and more, till it have burnt up all thoſe Briars and Thorns, which prick and wound the Souls of all Righteous Men, and hedg up our Way to Peace and Set<g ref="char:EOLhyphen"/>tlement. Then would <hi>you have Praiſe of God,</hi> and Peace in your Minds; and the Applauſe of all good
+<pb n="30" facs="tcp:62985:16"/> Men, and <hi>the Generations to come would call you Bleſſed.</hi> Then you would have comfort in the Hour of Death, and <hi>boldneſs in the Day of Judgment,</hi> and an exceeding <hi>great Reward in Heaven,</hi> ineſtima<g ref="char:EOLhyphen"/>ble Treaſures, unfading Crowns, and <hi>Joy unſpeaka<g ref="char:EOLhyphen"/>ble</hi> for ever more.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:62985:16"/>
+            <head>Some Books Printed for <hi>B. Aylmer,</hi> at the <hi>Three Pigeons</hi> in <hi>Cornhil.</hi>
+            </head>
+            <p>THE Works of the Moſt Reverend Dr. <hi>John Tillotſon,</hi> late Lord Archbiſhop of <hi>Canterbury,</hi> containing Fifty four Sermons and Diſcourſes on ſeveral Occaſions; together with the Rule of Faith. Being all that were publiſhed by his Grace himſelf, and now col<g ref="char:EOLhyphen"/>lected into one Volume: To which is added, an Alphabetical Table of the Principal Matters. <hi>Price</hi> 20 s.</p>
+            <p>Six Sermons; <hi>viz.</hi> Of Stedfaſtneſs in Religion. Of Family Re<g ref="char:EOLhyphen"/>ligion. Of Education of Children. Of the Advantages of an Ear<g ref="char:EOLhyphen"/>ly Piety. By his Grace, <hi>John</hi> late Archbiſhop of <hi>Canterbury.</hi> In 120. Price 18 <hi>d.</hi>
+            </p>
+            <p>A Perſwaſive to frequent Communion in the Holy Sacrament of the Lord's Supper; alſo by his Grace <hi>John</hi> late Archbiſhop of <hi>Can<g ref="char:EOLhyphen"/>terbury.</hi> In 120. Bound 6 <hi>d.</hi> Or Stitch'd in 80. 3 <hi>d.</hi> or ſomething Cheaper to thoſe that are ſo Charitable to give away Numbers.</p>
+            <p>The Holy Bible, containing the Old Teſtament, and the New; with Annotations, and very exact Parallel Scriptures. To which is Annex'd the Harmony of the Goſpels; as alſo the Reduction of the <hi>Jewiſh</hi> Weights, Coins, and Meaſures, to our <hi>Engliſh</hi> Standards. And a Table of the Promiſes in Scripture. By <hi>Samuel Clark,</hi> Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel. Printed in Folio, on a very Fair Letter; the like never before in one Volume. To which is newly added a very Exact and Uſeful Concordance, Price 30 <hi>s.</hi>
+            </p>
+            <p>The Works of the Learned <hi>Iſaac Barrow,</hi> D. D. late Maſter of <hi>Trinity College</hi> in <hi>Cambridg.</hi> Publiſhed by the Reverend Dr. <hi>Tillot<g ref="char:EOLhyphen"/>ſon,</hi> late Archbiſhop of <hi>Canterbury.</hi> The Third Volume. Contain<g ref="char:EOLhyphen"/>ing Forty five Sermons, upon ſeveral Occaſions, compleating his <hi>Engliſh</hi> Works.</p>
+            <p>A Brief Expoſition of the Apoſtles Creed, by the Learned Dr. <hi>Iſaac Barrow,</hi> late Maſter of <hi>Trinity College</hi> in <hi>Cambridg;</hi> (Never before printed, being very different from his Volume of Sermons on it): to which is added, His Expoſition of the Lord's Prayer, and the Ten Commandments, <hi>&amp;c.</hi> In 80. Price 4 <hi>s. 6 d.</hi>
+            </p>
+            <p>Practical Diſcourſes upon the Conſideration of our Latter End, and the Danger and Miſchief of delaying Repentance. By Dr. <hi>Iſaac Barrow.</hi> In 8<hi>o.</hi> Price 18 <hi>d.</hi>
+            </p>
+            <pb facs="tcp:62985:17"/>
+            <p>The Four Laſt Things; <hi>viz.</hi> Death, Judgment, Heaven, and Hell: Practically Conſidered and Applied. By <hi>W. Bates,</hi> D. D. In 120. Price 2 <hi>s.</hi>
+            </p>
+            <p>Sermons of the Forgiveneſs of Sins. On <hi>Pſal. 130. ver.</hi> 4. Alſo by Dr. <hi>Bates.</hi> Price 18 <hi>d.</hi>
+            </p>
+            <p>A Brief Concordance to the Holy Bible, of the moſt uſual and uſeful Places which one may have occaſion to ſeek for: In a new Method. By <hi>Samuel Clark,</hi> M. A. Price 2 <hi>s.</hi>
+            </p>
+            <p>The Advice of a Father; Or Counſel to a Child: Directing him how to demean himſelf in the moſt important Paſſages of this Life. By <hi>E. C.</hi> Gent. In 120. Price 1 <hi>s.</hi>
+            </p>
+            <p>A Conference with an Anabaptiſt. By Dr. <hi>Aſſheton</hi> of <hi>Beckenham</hi> in <hi>Kent.</hi> Price 1. <hi>s.</hi>
+            </p>
+            <p>A Theological Diſcourſe of Laſt Wills and Teſtaments. Alſo by Dr. <hi>Aſſheton.</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>Several ſmall Books againſt Debauchery, Profaneneſs, Blaſphemy, Curſing and Swearing, <hi>&amp;c.</hi> By Dr. <hi>Aſſheton.</hi> Price 2 <hi>d.</hi> each, and ſomething cheaper to them that give away Numbers.</p>
+            <p>A Diſcourſe concerning a Death-Bed Repentance. By <hi>William Aſſheton,</hi> D. D. Price 6 <hi>d.</hi>
+            </p>
+            <p>A Familiar Guide to the Right and Profitable Receiving of the Lord's Supper: Wherein alſo the Way and Method of our Salvation is briefly and plainly declared. By <hi>T. Dorrington.</hi> Price 1 <hi>s.</hi>
+            </p>
+            <div type="part">
+               <p>A Sermon Preached at <hi>Bow</hi>-Church before the Lord Mayor, <hi>&amp;c.</hi> upon a General Faſt. <hi>June</hi> 26. 1696. On <hi>Neh.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 9. part of the <hi>26th</hi> and <hi>27th</hi> Verſes.</p>
+               <p>A Sermon Preached at St. <hi>Lawrence Jewry,</hi> at the Election of the Lord Mayor, 1696. On <hi>Prov.</hi> 29. 2.</p>
+               <p>A Sermon Preached at the Funeral of Mr. <hi>James Lordell,</hi> March 27. 1694. On <hi>Rev.</hi> 14. 13.</p>
+               <p>A Sermon Preach'd at St. <hi>Mary-le-Bow,</hi> to the Societies for Re<g ref="char:EOLhyphen"/>formation of Manners, <hi>April</hi> 5. 1697.</p>
+               <p>All four by <hi>Lilly Butler,</hi> Miniſter of St. <hi>Mary Aidermanbury.</hi> Sold by <hi>B. Aylmer.</hi>
+               </p>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>
